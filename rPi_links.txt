@@ -1,1 +1,1 @@
-https://github.com/tocet/prog_devices
+https://linuxconfig.org/python-editors-on-raspberry-pi

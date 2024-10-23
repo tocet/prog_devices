@@ -1,6 +1,0 @@
-Python editors:
-https://linuxconfig.org/python-editors-on-raspberry-pi
-
-Tkinter
-https://www.pythontutorial.net/tkinter/
-https://tkdocs.com/tutorial/index.html

@@ -1,0 +1,16 @@
+i2c:
+sudo apt install python3-smbus i2c-tools
+sudo raspi-config
+i2cdetect -y 1
+
+venv:
+python3 -m venv /home/pi/pld_classes
+source pld_classes/bin/activate
+deactivate
+
+pip install adafruit-circuitpython-bmp280
+pip install matplotlib
+pip install seaborn
+pip install bokeh
+pip install tensorflow 
+
